@@ -1,0 +1,17 @@
+.authBtn {
+    border-radius: 50vh;
+    width: 7rem;
+    height: 2.5rem;
+    border: none;
+    font-weight: 600;
+}
+
+.loginBtn {
+    background-color: white;
+    border: 1.5px solid black;
+}
+
+.signupBtn {
+    background-color: black;
+    color: white;
+}
